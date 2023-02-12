@@ -30,6 +30,7 @@ changeMarsPhoto();
 }
 
 .photo {
-	height: 750px;
+	max-height: 750px;
+	width: 70vw;
 }
 </style>

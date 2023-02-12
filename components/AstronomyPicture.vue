@@ -36,11 +36,12 @@ changeSelect();
 }
 
 .photo {
-	height: 500px;
+	max-width: 500px;
+	max-height: 500px;
 }
 
 .detail {
-	width: 1200px;
+	width: 80vw;
 	position: relative;
 	margin: 2em auto;
 	padding: 0.5em 1em;
